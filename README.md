@@ -1,4 +1,7 @@
-# api documentation for  [hyperlinks (v0.5.0)](https://github.com/zeit/hyperlinks#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyperlinks.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyperlinks) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyperlinks.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyperlinks)
+# npmdoc-hyperlinks
+
+#### basic api documentation for  [hyperlinks (v0.5.0)](https://github.com/zeit/hyperlinks#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyperlinks.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyperlinks) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyperlinks.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyperlinks)
+
 #### Extension for Hyper that automatically links URLs
 
 [![NPM](https://nodei.co/npm/hyperlinks.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hyperlinks)
@@ -59,7 +62,8 @@
         "url": "git+https://github.com/zeit/hyperlinks.git"
     },
     "scripts": {},
-    "version": "0.5.0"
+    "version": "0.5.0",
+    "bin": {}
 }
 ```
 
